@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(printf N\\\\nN\\\\n:*)",
+      "Bash(yes:*)",
+      "Bash(mkdir:*)",
+      "Bash(npx next:*)",
+      "Bash(sed:*)",
+      "Bash(curl:*)",
+      "Bash(taskkill:*)",
+      "Bash(tasklist:*)",
+      "Bash(for d in \"F:/xampp/htdocs/miltondentalclinic/Aboutpage\" \"F:/xampp/htdocs/miltondentalclinic/blogpage\" \"F:/xampp/htdocs/miltondentalclinic/communitysmiles\" \"F:/xampp/htdocs/miltondentalclinic/communitysmilespage\" \"F:/xampp/htdocs/miltondentalclinic/contact page\" \"F:/xampp/htdocs/miltondentalclinic/emergencypage\" \"F:/xampp/htdocs/miltondentalclinic/For Patients Page\")",
+      "Bash(do echo \"=== $d ===\")",
+      "Read(//f/xampp/htdocs/miltondentalclinic/dental-starter/**)",
+      "Bash(done)",
+      "Bash(wc:*)",
+      "Bash(grep:*)",
+      "Bash(powershell:*)",
+      "Bash(mv:*)",
+      "Bash(rm:*)",
+      "Bash(bash:*)",
+      "WebFetch(domain:clients.pracpros.com)"
+    ]
+  }
+}

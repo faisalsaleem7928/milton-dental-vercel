@@ -1,0 +1,10 @@
+document.addEventListener("DOMContentLoaded", function(){ window.addEventListener( 'load', function() {
+	UAGBButtonChild.init( '.uagb-block-a8034400' );
+});
+window.addEventListener( 'load', function() {
+	UAGBButtonChild.init( '.uagb-block-1d1b0874' );
+});
+window.addEventListener( 'load', function() {
+	UAGBButtonChild.init( '.uagb-block-3f6bac1c' );
+});
+ });
